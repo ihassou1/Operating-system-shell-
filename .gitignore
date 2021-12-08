@@ -1,0 +1,6 @@
+*.o
+*.bak
+cs31shell
+sleeper
+tester
+.vscode
